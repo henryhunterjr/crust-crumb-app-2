@@ -1,0 +1,2267 @@
+[
+  {
+    "id": "active-dry-yeast",
+    "term": "Active Dry Yeast",
+    "definition": "A form of commercial yeast with larger granules that needs to be dissolved in warm water (bloomed) before use. It's less potent than instant yeast - use about 25% more if substituting for instant.",
+    "shortDefinition": "Traditional dry yeast that needs to bloom in water.",
+    "category": "Ingredient",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "instant-yeast",
+      "yeast",
+      "blooming"
+    ],
+    "henrysTips": [
+      "If the water is too hot (over 110\u00b0F), you'll kill the yeast. Too cold, and it won't activate. Aim for 100-105\u00b0F."
+    ],
+    "youtubeQuery": "active dry yeast vs instant yeast"
+  },
+  {
+    "id": "all-purpose-flour",
+    "term": "All-Purpose Flour",
+    "definition": "A medium-protein flour designed to do everything reasonably well. While it can make bread, it produces a softer, less chewy loaf than bread flour.",
+    "category": "Ingredient",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "bread-flour",
+      "protein-content"
+    ]
+  },
+  {
+    "id": "amylase",
+    "term": "Amylase",
+    "definition": "An enzyme naturally present in flour (and saliva!) that breaks down complex starches into simple sugars. Yeast then eats these sugars to produce carbon dioxide.",
+    "category": "Process",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Modernist Cuisine"
+    ],
+    "shortDefinition": "The enzyme that turns starch into sugar for the yeast to eat.",
+    "relatedTermIds": [
+      "fermentation",
+      "yeast"
+    ]
+  },
+  {
+    "id": "ascorbic-acid",
+    "term": "Ascorbic Acid",
+    "definition": "Ideally known as Vitamin C, this is often added to bread recipes in tiny amounts to strengthen the gluten network and help the dough hold its shape during a long rise.",
+    "category": "Ingredient",
+    "difficulty": "Advanced",
+    "sources": [
+      "King Arthur Baking",
+      "Professional Baking"
+    ],
+    "relatedTermIds": [
+      "gluten",
+      "improver"
+    ]
+  },
+  {
+    "id": "ash-content",
+    "term": "Ash Content",
+    "definition": "A measure of how much mineral content remains in flour after milling. High ash content (like in whole wheat or Type 85 flour) means more bran/germ, darker color, and higher enzyme activity.",
+    "category": "Scientific/Technical",
+    "difficulty": "Advanced",
+    "sources": [
+      "Central Milling",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "whole-wheat-flour",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "autolyse",
+    "term": "Autolyse",
+    "pronunciation": "/\u02c8\u0254\u02d0.t\u0259\u02ccla\u026az/",
+    "definition": "A resting period where flour and water are mixed and left to sit (typically 30 minutes to 2 hours) before adding salt and starter/yeast. During this time, enzymes naturally present in the flour begin breaking down proteins and starches, making the dough easier to work with and improving gluten development.",
+    "shortDefinition": "Resting period for flour and water before adding other ingredients.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "fermentolyse",
+      "gluten",
+      "mixing"
+    ],
+    "henrysTips": [
+      "This is one of the easiest ways to improve your bread without extra work. Just mix flour and water, walk away, come back later. The dough practically kneads itself."
+    ],
+    "youtubeQuery": "autolyse technique sourdough bread"
+  },
+  {
+    "id": "babka",
+    "term": "Babka",
+    "definition": "A sweet, braided bread originating from Jewish communities in Poland and Ukraine. The dough is rolled out, spread with filling (chocolate or cinnamon), rolled into a log, cut, and twisted before baking.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "Smitten Kitchen"
+    ],
+    "relatedTermIds": [
+      "enriched-dough",
+      "brioche"
+    ],
+    "mediaPlaceholder": [
+      "image"
+    ]
+  },
+  {
+    "id": "bagel",
+    "term": "Bagel",
+    "definition": "A ring-shaped bread that is boiled in water (often with malt or honey) before baking. The boiling step gelatinizes the crust starch, giving bagels their signature shine and chew.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "gelatinization",
+      "boiling"
+    ],
+    "youtubeQuery": "how to shape bagels"
+  },
+  {
+    "id": "baguette",
+    "term": "Baguette",
+    "definition": "A long, thin loaf of French bread characterized by a crisp crust and large, irregular holes in the crumb. It requires careful shaping and handling to preserve the air bubbles.",
+    "category": "Bread",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "couche",
+      "lamination",
+      "proof-box"
+    ],
+    "youtubeQuery": "shaping baguettes for beginners"
+  },
+  {
+    "id": "bakers-couche",
+    "term": "Baker's Couche",
+    "pronunciation": "/koosh/",
+    "definition": "A heavy linen cloth used to support dough (like baguettes) while they proof. The fabric is folded up between loaves to help them hold their shape and prevent them from sticking to each other.",
+    "category": "Tool",
+    "difficulty": "Advanced",
+    "sources": [
+      "Breadtopia",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "baguette",
+      "proofing"
+    ],
+    "henrysTips": [
+      "Never wash your couche! Just scrape off the flour and let it dry. It gets better with age."
+    ]
+  },
+  {
+    "id": "bakers-percentage",
+    "term": "Baker's Percentage",
+    "definition": "A system where all ingredients are expressed as a percentage of the flour weight. Flour is always 100%, and everything else is a ratio to that. For example: 500g flour, 350g water = 70% hydration (350\u00f7500). This makes recipes scalable.",
+    "shortDefinition": "Recipe formula where flour is 100% and everything else is a ratio.",
+    "category": "Scientific/Technical",
+    "difficulty": "Advanced",
+    "relatedTermIds": [
+      "hydration",
+      "ratio"
+    ],
+    "henrysTips": [
+      "Once you learn baker's percentages, you can scale any recipe up or down in your head. It's liberating!"
+    ],
+    "widgets": [
+      "calculator"
+    ],
+    "youtubeQuery": "bakers percentage explained"
+  },
+  {
+    "id": "baking-steel",
+    "term": "Baking Steel",
+    "definition": "A thick plate of solid steel used as a baking surface. Because steel conducts heat 18x faster than ceramic stone, it delivers a massive blast of heat to the dough, resulting in incredible oven spring and blistering crusts.",
+    "category": "Tool",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Baking Steel"
+    ],
+    "relatedTermIds": [
+      "baking-stone",
+      "oven-spring"
+    ],
+    "henrysTips": [
+      "If you love pizza or crusty bread, this is the best upgrade for your oven. It creates a crust that a stone simply can't match."
+    ]
+  },
+  {
+    "id": "baking-stone",
+    "term": "Baking Stone",
+    "definition": "A flat slab of ceramic or cordierite designed to hold heat and bake bread/pizza evenly. It is gentler than steel, making it better for longer bakes where you don't want the bottom to burn before the inside is cooked.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "hearth-loaf",
+      "pizza-stone-steel"
+    ]
+  },
+  {
+    "id": "banneton",
+    "term": "Banneton",
+    "pronunciation": "/\u02c8b\u00e6n.\u026a.t\u0252n/",
+    "definition": "A basket used for proofing shaped bread dough, traditionally made from cane or rattan. The basket provides structure and support during the final rise and creates distinctive circular ridges on the loaf's surface.",
+    "shortDefinition": "A proofing basket that gives bread its shape and texture.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "proofing",
+      "rice-flour",
+      "final-proof"
+    ],
+    "henrysTips": [
+      "Dust it heavily with rice flour, not regular flour. Rice flour doesn't absorb moisture, so your dough won't stick."
+    ],
+    "commonMistakes": [
+      "Not flouring the basket enough, causing the dough to stick."
+    ],
+    "youtubeQuery": "how to use banneton proofing basket"
+  },
+  {
+    "id": "banneton-liner",
+    "term": "Banneton Liner",
+    "definition": "A linen or cotton cloth cover for a proofing basket. It prevents sticky dough from getting stuck in the basket's crevices and creates a smooth surface on the loaf, which is ideal for intricate scoring.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "sources": [
+      "Breadtopia",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "banneton",
+      "rice-flour"
+    ]
+  },
+  {
+    "id": "bassinage",
+    "term": "Bassinage",
+    "definition": "A technique of holding back some water from the initial mix and adding it slowly later in the mixing process. This helps develop gluten faster before the dough becomes super wet.",
+    "category": "Technique",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "The Bread Code"
+    ],
+    "relatedTermIds": [
+      "hydration",
+      "gluten"
+    ]
+  },
+  {
+    "id": "batard",
+    "term": "Batard",
+    "pronunciation": "/b\u0259\u02c8t\u0251\u02d0rd/",
+    "definition": "An oval or football-shaped loaf. This shape is often preferred by bakers because it yields more uniform slices than a round boule.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "boule",
+      "banneton",
+      "scoring"
+    ],
+    "henrysTips": [
+      "If you want sandwiches, shape a batard. It gives you those nice, wide slices perfect for a grilled cheese."
+    ]
+  },
+  {
+    "id": "belly",
+    "term": "Belly",
+    "definition": "The rounded part of the loaf that expands and opens up during the bake, usually right next to the 'ear.' A big belly indicates strong fermentation and good shaping tension.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "PantryMama",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "oven-spring",
+      "shaping"
+    ]
+  },
+  {
+    "id": "bench-rest",
+    "term": "Bench Rest",
+    "definition": "A resting period (usually 15-30 minutes) after pre-shaping. This allows the gluten to relax so the dough can be shaped into its final form without tearing or fighting back.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "pre-shape",
+      "extensibility"
+    ]
+  },
+  {
+    "id": "bench-scraper",
+    "term": "Bench Scraper",
+    "definition": "A flat, rectangular metal or plastic tool used to divide dough, scrape sticky bits off the counter, and help lift dough during shaping. It is arguably the most essential tool for a baker.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "sources": [
+      "Breadtopia",
+      "King Arthur Baking"
+    ],
+    "henrysTips": [
+      "If I could only have one tool, it's this. It acts like an extension of your hand when the dough is sticky."
+    ],
+    "alternateQuestions": [
+      "What is a bench knife?",
+      "Dough scraper tool"
+    ]
+  },
+  {
+    "id": "bialy",
+    "term": "Bialy",
+    "definition": "A cousin to the bagel, this round roll has a depressed center filled with cooked onions and poppy seeds. Unlike bagels, bialys are baked without being boiled first.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "Serious Eats"
+    ],
+    "relatedTermIds": [
+      "bagel"
+    ]
+  },
+  {
+    "id": "biga",
+    "term": "Biga",
+    "pronunciation": "/\u02c8bi\u02d0\u0261\u0259/",
+    "definition": "A stiff Italian pre-ferment made from flour, water, and a tiny amount of yeast. It is mixed into a firm dough and allowed to ferment for 12-16 hours before being added to the final dough to add complexity and strength.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "poolish",
+      "fermentation"
+    ],
+    "henrysTips": [
+      "Think of biga as a 'strength booster.' Because it's stiff, it helps add structure to wet doughs like ciabatta."
+    ],
+    "youtubeQuery": "how to make biga for bread"
+  },
+  {
+    "id": "blisters",
+    "term": "Blisters",
+    "definition": "Tiny, crispy bubbles on the surface of the crust. They are highly prized by sourdough bakers and are usually achieved by a long cold fermentation (fridge proof) and a very hot bake.",
+    "category": "Process",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "The Fresh Loaf"
+    ],
+    "relatedTermIds": [
+      "retarding",
+      "maillard-reaction"
+    ]
+  },
+  {
+    "id": "boule",
+    "term": "Boule",
+    "pronunciation": "/bu\u02d0l/",
+    "definition": "A traditional French bread shape resembling a round ball. It is the most common shape for sourdough baked in a Dutch oven.",
+    "category": "Bread",
+    "difficulty": "Beginner",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "batard",
+      "banneton",
+      "shaping"
+    ],
+    "mediaPlaceholder": [
+      "image"
+    ],
+    "youtubeQuery": "how to shape a sourdough boule"
+  },
+  {
+    "id": "bread-flour",
+    "term": "Bread Flour",
+    "definition": "A high-protein flour (usually 12-14% protein) specifically milled for yeast and sourdough breads. The higher protein content helps create a strong gluten network, resulting in better rise and a chewier texture compared to all-purpose flour.",
+    "shortDefinition": "High-protein flour that creates strong gluten for chewy, high-rising loaves.",
+    "category": "Ingredient",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "gluten",
+      "crumb",
+      "hydration"
+    ],
+    "henrysTips": [
+      "If a recipe calls for bread flour and you only have all-purpose, your loaf might end up a bit flatter and softer. It's worth buying the real deal for that chewy artisanal texture!"
+    ],
+    "youtubeQuery": "bread flour vs all purpose flour"
+  },
+  {
+    "id": "brioche",
+    "term": "Brioche",
+    "definition": "A highly enriched French bread with a high egg and butter content. The result is a rich, tender, and fluffy crumb with a dark, golden crust.",
+    "category": "Bread",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "The Clever Carrot"
+    ],
+    "relatedTermIds": [
+      "enriched-dough",
+      "windowpane-test"
+    ]
+  },
+  {
+    "id": "bulk-fermentation",
+    "term": "Bulk Fermentation",
+    "definition": "The first rise of bread dough after mixing, where the entire mass of dough ferments together in one container before being divided and shaped. This is when most of the flavor and structure development happens.",
+    "shortDefinition": "The first rise before shaping, where flavor develops.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "fermentation",
+      "stretch-and-fold",
+      "coil-fold"
+    ],
+    "henrysTips": [
+      "Watch the dough, not the clock. A 4-hour bulk fermentation at 78\u00b0F is not the same as 4 hours at 68\u00b0F."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Dough isn't rising during bulk",
+        "solution": "Check your starter strength, room temperature, and dough temperature. Cold dough ferments slowly."
+      }
+    ],
+    "youtubeQuery": "bulk fermentation sourdough timing"
+  },
+  {
+    "id": "challah",
+    "term": "Challah",
+    "definition": "A braided, enriched bread of Jewish origin, traditionally eaten on Shabbat. It is made with eggs and oil (but no butter/dairy if kosher) and has a soft, sweet crumb.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "brioche",
+      "braiding"
+    ]
+  },
+  {
+    "id": "ciabatta",
+    "term": "Ciabatta",
+    "pronunciation": "/t\u0283\u0259\u02c8b\u0251\u02d0t\u0259/",
+    "definition": "An Italian white bread made from a very wet (high hydration) dough. It is known for its flat, slipper-like shape and extremely open, airy crumb.",
+    "category": "Bread",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "hydration",
+      "biga",
+      "bassinage"
+    ],
+    "henrysTips": [
+      "Don't try to shape this like a normal loaf! It's mostly just gently folding a wet puddle of dough into a rectangle."
+    ]
+  },
+  {
+    "id": "cloche",
+    "term": "Cloche",
+    "definition": "A bell-shaped ceramic or cast iron cover used to bake bread. Like a Dutch oven, it traps steam around the loaf to create a superior crust and oven spring.",
+    "category": "Tool",
+    "difficulty": "Intermediate",
+    "sources": [
+      "Breadtopia",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "dutch-oven",
+      "oven-spring"
+    ],
+    "alternateQuestions": [
+      "Bread baking dome",
+      "Clay baker"
+    ]
+  },
+  {
+    "id": "coil-fold",
+    "term": "Coil Fold",
+    "definition": "A gentle folding technique where you lift the center of the dough and let the sides fall underneath, then rotate 90\u00b0 and repeat. It builds strength without degassing the dough.",
+    "shortDefinition": "A gentle folding technique that builds dough strength.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "stretch-and-fold",
+      "bulk-fermentation",
+      "gluten"
+    ],
+    "henrysTips": [
+      "This is my go-to for high-hydration doughs. It's gentler than stretch-and-fold and perfect for preserving those bubbles."
+    ],
+    "youtubeQuery": "coil fold technique sourdough"
+  },
+  {
+    "id": "cold-proof",
+    "term": "Cold Proof",
+    "definition": "Proofing shaped dough in the refrigerator overnight (or up to 72 hours). The cold slows fermentation dramatically, allowing for extended flavor development while fitting your schedule.",
+    "shortDefinition": "Slow final rise in the refrigerator overnight.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "retarding",
+      "proofing",
+      "fermentation"
+    ],
+    "henrysTips": [
+      "This is my default method. Shape before bed, bake first thing in the morning. Plus, cold dough scores beautifully."
+    ],
+    "youtubeQuery": "cold proof sourdough overnight"
+  },
+  {
+    "id": "combo-cooker",
+    "term": "Combo Cooker",
+    "definition": "A cast iron set consisting of a deep pot and a shallow skillet lid that lock together. Bakers flip it upside down, using the shallow skillet as the base, which makes loading the dough much safer and easier than a deep Dutch oven.",
+    "category": "Tool",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "Lodge"
+    ],
+    "relatedTermIds": [
+      "dutch-oven",
+      "steam"
+    ],
+    "henrysTips": [
+      "This is arguably better than a regular Dutch oven because you don't have to drop the dough down a deep hole and risk burning your knuckles."
+    ]
+  },
+  {
+    "id": "cooling-rack",
+    "term": "Cooling Rack",
+    "definition": "A wire grid that allows air to circulate under the hot bread. Cooling bread on a rack prevents the bottom from getting soggy due to condensation.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "sources": [
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "crumb",
+      "gummy-crumb"
+    ]
+  },
+  {
+    "id": "cross-score",
+    "term": "Cross Score",
+    "definition": "A simple 'X' cut across the top of a round boule. It is one of the most effective scores for beginners because it allows the bread to open evenly in four directions, preventing 'blowouts' on the side.",
+    "category": "Technique",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "boule",
+      "scoring"
+    ],
+    "henrysTips": [
+      "When in doubt, X marks the spot. It's reliable and maximizes that oven spring."
+    ]
+  },
+  {
+    "id": "crumb",
+    "term": "Crumb",
+    "definition": "The internal texture and structure of bread, referring to the pattern of holes, their size, and how the bread feels when you bite into it. 'Open crumb' has large, irregular holes, while 'tight crumb' is more uniform and dense.",
+    "shortDefinition": "The interior texture and hole structure of bread.",
+    "category": "Bread",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "hydration",
+      "fermentation",
+      "shaping"
+    ],
+    "henrysTips": [
+      "Don't obsess over giant holes. Good crumb is about eating quality, not Instagram photos."
+    ],
+    "youtubeQuery": "open crumb sourdough"
+  },
+  {
+    "id": "crust",
+    "term": "Crust",
+    "definition": "The hard, caramelized outer shell of the bread. A good artisan crust should be dark, blistered, and crisp, singing with flavor from the Maillard reaction.",
+    "category": "Bread",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "maillard-reaction",
+      "crumb"
+    ]
+  },
+  {
+    "id": "danish-dough-whisk",
+    "term": "Danish Dough Whisk",
+    "definition": "A mixing tool with a long handle and a stiff, looped wire head. It is designed to cut through thick, heavy doughs without getting clogged like a standard balloon whisk.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "sources": [
+      "Breadtopia",
+      "The Clever Carrot"
+    ],
+    "henrysTips": [
+      "A regular whisk will get gummed up instantly. This thing powers through flour and water like magic."
+    ],
+    "youtubeQuery": "danish dough whisk vs spoon"
+  },
+  {
+    "id": "dense-crumb",
+    "term": "Dense Crumb",
+    "definition": "A bread interior that lacks air bubbles and feels heavy or brick-like. It is one of the most common issues for beginners.",
+    "category": "Process",
+    "difficulty": "Beginner",
+    "sources": [
+      "The Clever Carrot",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "proofing",
+      "yeast"
+    ],
+    "henrysTips": [
+      "If your starter wasn't doubling in size before you used it, your bread will likely be dense. Healthy starter = airy bread."
+    ]
+  },
+  {
+    "id": "desired-dough-temperature",
+    "term": "Desired Dough Temperature (DDT)",
+    "definition": "A formula used by bakers to calculate exactly how hot or cold their water needs to be to hit a specific dough temperature (usually 75-78\u00b0F) after mixing. Controlling this ensures consistent fermentation timing regardless of the season.",
+    "category": "Technique",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "fermentation",
+      "bulk-fermentation"
+    ],
+    "henrysTips": [
+      "If you bake bread in summer and winter and get wildly different results, it's because you aren't managing your DDT. The dough cares about its own temperature, not the room temperature."
+    ]
+  },
+  {
+    "id": "diastatic-malt",
+    "term": "Diastatic Malt Powder",
+    "definition": "A powder made from sprouted barley that is rich in enzymes (amylase). Adding a small amount to dough helps break down starch into sugar, promoting a faster rise and better browning.",
+    "category": "Ingredient",
+    "difficulty": "Advanced",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "henrysTips": [
+      "You rarely need this for artisan flour, but if you're using cheap grocery store flour, a pinch of this can act like a supercharger for your crust color."
+    ]
+  },
+  {
+    "id": "digital-scale",
+    "term": "Digital Scale",
+    "definition": "A kitchen scale used to weigh ingredients by gram rather than volume. Weighing is crucial for bread baking because a cup of flour can vary wildly in weight depending on how it's scooped.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "bakers-percentage",
+      "hydration"
+    ],
+    "henrysTips": [
+      "Ditch the cups! A scale is the single biggest upgrade you can make to your baking consistency."
+    ],
+    "commonMistakes": [
+      "Using measuring cups for flour and wondering why the dough is too dry."
+    ]
+  },
+  {
+    "id": "discard",
+    "term": "Discard",
+    "definition": "The portion of sourdough starter removed before feeding. It's still full of flavor (though not as active) and can be used in recipes like pancakes, crackers, and quick breads.",
+    "shortDefinition": "Starter removed before feeding, great for recipes.",
+    "category": "Ingredient",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "sourdough-starter",
+      "feeding"
+    ],
+    "henrysTips": [
+      "Keep a jar in the fridge for discard recipes. It's basically free flavor!"
+    ],
+    "youtubeQuery": "sourdough discard recipes"
+  },
+  {
+    "id": "docking",
+    "term": "Docking",
+    "definition": "Pricking a flat dough (like crackers, pizza, or focaccia) with a fork or roller to create small holes. These holes prevent large air bubbles from ballooning up during the bake.",
+    "category": "Technique",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "focaccia",
+      "pizza-dough-balls"
+    ]
+  },
+  {
+    "id": "dutch-oven",
+    "term": "Dutch Oven",
+    "definition": "A heavy cast-iron pot with a tight-fitting lid, used to create a steamy baking environment that mimics a professional steam-injected oven. The trapped steam keeps the crust soft initially, allowing maximum oven spring.",
+    "shortDefinition": "Cast iron pot that traps steam for better bread.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "oven-spring",
+      "steam",
+      "scoring"
+    ],
+    "henrysTips": [
+      "Preheat it empty at 500\u00b0F for at least 30 minutes. A cold Dutch oven won't give you that explosive spring."
+    ],
+    "youtubeQuery": "baking sourdough in dutch oven"
+  },
+  {
+    "id": "ear",
+    "term": "Ear",
+    "definition": "The dramatic flap of crust that rises up along a properly executed score line. It's created by scoring at a shallow angle (about 30\u00b0) with a sharp blade, allowing the bread to open sideways instead of straight up.",
+    "shortDefinition": "The raised flap of crust along the score line.",
+    "category": "Bread",
+    "difficulty": "Advanced",
+    "relatedTermIds": [
+      "scoring",
+      "lame",
+      "oven-spring"
+    ],
+    "henrysTips": [
+      "Angle is everything. Hold your lame at 30\u00b0 to the surface, not straight down. That's the secret to a good ear."
+    ],
+    "youtubeQuery": "how to get an ear on sourdough"
+  },
+  {
+    "id": "elasticity",
+    "term": "Elasticity",
+    "definition": "The ability of dough to spring back to its original shape after being stretched. While you want some stretch (extensibility), you need elasticity so the loaf holds its shape and doesn't pancake in the oven.",
+    "shortDefinition": "The dough's ability to snap back and hold its shape.",
+    "category": "Scientific/Technical",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "extensibility",
+      "gluten",
+      "bench-rest"
+    ],
+    "henrysTips": [
+      "Think of elasticity like a rubber band. You need enough tension to hold the gas bubbles in, but not so much that it fights you."
+    ]
+  },
+  {
+    "id": "english-muffin",
+    "term": "English Muffin",
+    "definition": "A small, round, flat yeast bread that is cooked on a griddle or skillet rather than in an oven. They are famous for their 'nooks and crannies' interior, perfect for holding butter.",
+    "category": "Bread",
+    "difficulty": "Beginner",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "griddle",
+      "crumb"
+    ],
+    "henrysTips": [
+      "Always split these with a fork, never a knife! Cutting them ruins the nooks and crannies."
+    ]
+  },
+  {
+    "id": "enriched-dough",
+    "term": "Enriched Dough",
+    "definition": "Dough that contains significant amounts of fat, sugar, dairy, or eggs (like Brioche or Challah). These ingredients inhibit gluten development and yeast activity, so these doughs often take longer to rise.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "brioche",
+      "challah",
+      "lean-dough"
+    ],
+    "henrysTips": [
+      "Sugar and fat slow down yeast (the 'osmotic stress'). Be patient; enriched doughs operate on their own slow timeline."
+    ]
+  },
+  {
+    "id": "extensibility",
+    "term": "Extensibility",
+    "definition": "The ability of dough to stretch without tearing. An extensible dough relaxes and lengthens easily (like bubblegum), which is crucial for shaping baguettes or stretching pizza.",
+    "shortDefinition": "How much the dough can stretch before it snaps or tears.",
+    "category": "Scientific/Technical",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Bakery Bits"
+    ],
+    "relatedTermIds": [
+      "elasticity",
+      "gluten",
+      "autolyse"
+    ],
+    "henrysTips": [
+      "If your dough keeps shrinking back when you try to roll it out, it lacks extensibility. Let it rest for 10 minutes to relax the gluten, then try again."
+    ],
+    "alternateQuestions": [
+      "Why does my dough shrink back?"
+    ]
+  },
+  {
+    "id": "feeding",
+    "term": "Feeding",
+    "definition": "The process of adding fresh flour and water to your sourdough starter to keep the yeast and bacteria alive and active. Also called 'refreshing' the starter.",
+    "shortDefinition": "Adding fresh flour and water to keep starter alive.",
+    "category": "Process",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "sourdough-starter",
+      "discard",
+      "ratio"
+    ],
+    "henrysTips": [
+      "I do 1:1:1 (starter:water:flour) for maintenance. Simple and consistent."
+    ],
+    "youtubeQuery": "how to feed sourdough starter"
+  },
+  {
+    "id": "fermentation",
+    "term": "Fermentation",
+    "definition": "The biological process where yeast and bacteria consume sugars in the dough and produce carbon dioxide (which makes the bread rise), alcohol, and organic acids (which create flavor).",
+    "shortDefinition": "The process where yeast creates gas and flavor.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "bulk-fermentation",
+      "proofing",
+      "yeast"
+    ],
+    "henrysTips": [
+      "Temperature is everything. 76-78\u00b0F is the sweet spot for most doughs."
+    ],
+    "youtubeQuery": "bread fermentation explained"
+  },
+  {
+    "id": "fermentolyse",
+    "term": "Fermentolyse",
+    "definition": "Henry's technique from 'Sourdough for the Rest of Us' - an autolyse that includes the sourdough starter. Mix flour, water, and starter, then let it rest before adding salt. This gives you the benefits of autolyse while fermentation begins.",
+    "shortDefinition": "Autolyse with starter included (Henry's method).",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "autolyse",
+      "sourdough-starter"
+    ],
+    "henrysTips": [
+      "This is how I teach it in my book. It simplifies the process and you still get incredible gluten development."
+    ],
+    "bookRef": "Sourdough for the Rest of Us",
+    "youtubeQuery": "fermentolyse technique"
+  },
+  {
+    "id": "float-test",
+    "term": "Float Test",
+    "definition": "A simple test to check if your sourdough starter is active and ready to use. Drop a spoonful of starter in water - if it floats, it's full of gas and ready to bake with. If it sinks, it needs more time or another feeding.",
+    "shortDefinition": "Test to see if starter is ready by floating it in water.",
+    "category": "Technique",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "sourdough-starter",
+      "feeding"
+    ],
+    "henrysTips": [
+      "Use room temperature water for the test. Cold water can give false negatives."
+    ],
+    "youtubeQuery": "sourdough float test"
+  },
+  {
+    "id": "flying-crust",
+    "term": "Flying Crust",
+    "definition": "A defect where the top crust separates from the crumb, creating a large gap or 'cave' at the top of the loaf. It makes the bread difficult to slice for sandwiches.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Fresh Loaf"
+    ],
+    "relatedTermIds": [
+      "proofing",
+      "shaping"
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Crust lifts off the bread",
+        "solution": "Often caused by the dough drying out during proofing. Cover your dough better!"
+      }
+    ]
+  },
+  {
+    "id": "focaccia",
+    "term": "Focaccia",
+    "definition": "An oven-baked Italian flatbread similar in style to pizza dough. It is usually dimpled with fingers and drizzled with olive oil and herbs before baking.",
+    "category": "Bread",
+    "difficulty": "Beginner",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "pizza-dough-balls",
+      "fermentation"
+    ],
+    "henrysTips": [
+      "The easiest bread to start with! No shaping required\u2014just dump it in a pan, dimple it with your fingers, and bake."
+    ],
+    "youtubeQuery": "easy sourdough focaccia recipe"
+  },
+  {
+    "id": "fresh-yeast",
+    "term": "Fresh Yeast",
+    "definition": "Also known as 'cake yeast,' this is moist, perishable yeast sold in compressed blocks. It is highly active and preferred by professional bakeries for its sweet flavor and powerful rising ability, especially in high-sugar doughs.",
+    "category": "Ingredient",
+    "difficulty": "Advanced",
+    "sources": [
+      "King Arthur Baking",
+      "Professional Baking"
+    ],
+    "relatedTermIds": [
+      "instant-yeast",
+      "enriched-dough"
+    ],
+    "henrysTips": [
+      "It smells amazing, like fresh apples and beer, but it spoils in two weeks. Stick to instant yeast unless you bake every single day."
+    ]
+  },
+  {
+    "id": "friction-factor",
+    "term": "Friction Factor",
+    "definition": "The amount of heat generated by the friction of a mixer or hand-kneading. Professional bakers subtract this number from their water temperature calculation to prevent the dough from overheating during the mix.",
+    "category": "Scientific/Technical",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "kneading",
+      "desired-dough-temperature"
+    ]
+  },
+  {
+    "id": "gelatinization",
+    "term": "Gelatinization",
+    "definition": "The process where starch granules absorb water and swell up when heated (during baking). This sets the structure of the bread crumb, turning it from liquid dough into solid bread.",
+    "category": "Process",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "crumb",
+      "tangzhong"
+    ]
+  },
+  {
+    "id": "gluten",
+    "term": "Gluten",
+    "definition": "A network of proteins (primarily gliadin and glutenin) that forms when wheat flour is mixed with water. This elastic network traps gas bubbles produced during fermentation, allowing bread to rise and giving it structure.",
+    "shortDefinition": "The protein network that gives bread structure.",
+    "category": "Ingredient",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "kneading",
+      "windowpane-test",
+      "flour"
+    ],
+    "henrysTips": [
+      "You don't need to knead sourdough like traditional bread. Folds during bulk fermentation do most of the work."
+    ],
+    "youtubeQuery": "gluten development bread"
+  },
+  {
+    "id": "grain-mill",
+    "term": "Grain Mill",
+    "definition": "A countertop appliance used to grind whole berries (wheat, rye, spelt) into fresh flour at home. Freshly milled flour ferments much faster and has a distinctively sweet, grassy flavor.",
+    "category": "Tool",
+    "difficulty": "Advanced",
+    "sources": [
+      "Breadtopia",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "whole-wheat-flour",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "gummy-crumb",
+    "term": "Gummy Crumb",
+    "definition": "A texture fault where the inside of the bread feels damp, sticky, or doughy even after cooling. It often balls up when you chew it.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "The Clever Carrot"
+    ],
+    "relatedTermIds": [
+      "hydration",
+      "internal-temperature"
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Bread is sticky inside",
+        "solution": "Wait for the loaf to cool completely before slicing! Cutting hot bread releases steam that should stay inside to set the crumb."
+      }
+    ]
+  },
+  {
+    "id": "hearth-loaf",
+    "term": "Hearth Loaf",
+    "definition": "Any bread baked directly on the hot floor of an oven (or on a pizza stone/steel) rather than in a pan. These loaves typically have a thicker, crustier bottom.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Fresh Loaf"
+    ],
+    "relatedTermIds": [
+      "pizza-stone-steel",
+      "cloche"
+    ]
+  },
+  {
+    "id": "hoagie-roll",
+    "term": "Hoagie Roll",
+    "definition": "A long, flat Italian-American roll with a soft interior and a slightly crisp crust, designed to hold heavy sandwich fillings without falling apart.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "enriched-dough",
+      "sandwich-bread"
+    ]
+  },
+  {
+    "id": "hooch",
+    "term": "Hooch",
+    "definition": "The grayish or brownish liquid that forms on top of a neglected or hungry sourdough starter. It's mostly alcohol produced by the yeast. You can stir it back in or pour it off before feeding.",
+    "shortDefinition": "Liquid on hungry starter (alcohol from yeast).",
+    "category": "Process",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "sourdough-starter",
+      "feeding"
+    ],
+    "henrysTips": [
+      "Hooch means your starter is hungry! Feed it more often or keep more starter between feedings."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Dark hooch forming daily",
+        "solution": "Increase the amount of starter you keep, or feed it twice a day instead of once."
+      }
+    ]
+  },
+  {
+    "id": "hydration",
+    "term": "Hydration",
+    "definition": "The ratio of water to flour in dough, expressed as a percentage using baker's math. A dough with 500g flour and 375g water has 75% hydration (375\u00f7500=0.75). Higher hydration typically means more open crumb but stickier dough.",
+    "shortDefinition": "The percentage of water to flour in dough.",
+    "category": "Scientific/Technical",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "bakers-percentage",
+      "water",
+      "flour"
+    ],
+    "henrysTips": [
+      "Start at 70% hydration and work your way up. Don't jump straight to 85% and wonder why you're wrestling with soup."
+    ],
+    "widgets": [
+      "calculator"
+    ],
+    "youtubeQuery": "bread hydration percentage explained"
+  },
+  {
+    "id": "inclusions",
+    "term": "Inclusions",
+    "definition": "Any solid ingredients added to the dough, such as nuts, seeds, dried fruit, cheese, or olives. These are usually added during the lamination or folding stage.",
+    "category": "Ingredient",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "henrysTips": [
+      "Don't add these too early during mixing, or they might shred your gluten network. Fold them in gently after the dough has developed some strength."
+    ]
+  },
+  {
+    "id": "infrared-thermometer",
+    "term": "Infrared Thermometer",
+    "definition": "A 'point-and-shoot' laser thermometer that reads surface temperatures instantly. It is essential for checking if your baking stone or steel is hot enough (500\u00b0F+) before launching your bread.",
+    "category": "Tool",
+    "difficulty": "Intermediate",
+    "sources": [
+      "Ooni",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "baking-steel",
+      "oven-temperature"
+    ]
+  },
+  {
+    "id": "inoculation",
+    "term": "Inoculation",
+    "definition": "The percentage of sourdough starter added to a dough recipe. A 'high inoculation' (20%+) makes the dough rise faster, while a 'low inoculation' (<10%) allows for a very long, slow fermentation.",
+    "category": "Scientific/Technical",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "bakers-percentage",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "instant-yeast",
+    "term": "Instant Yeast",
+    "definition": "A fast-acting dry yeast that can be mixed directly into flour without dissolving in water first. It is more potent than active dry yeast and is the preferred choice for most modern bread recipes because of its reliability and speed.",
+    "category": "Ingredient",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "active-dry-yeast",
+      "lean-dough"
+    ],
+    "henrysTips": [
+      "I use this exclusively. You don't need to 'bloom' it in warm water\u2014just toss it in the bowl and go. It's foolproof."
+    ],
+    "alternateQuestions": [
+      "Rapid rise yeast vs instant yeast"
+    ]
+  },
+  {
+    "id": "intensive-mix",
+    "term": "Intensive Mix",
+    "definition": "A mixing method involving high speed and long duration to fully develop gluten mechanically. It is essential for enriched doughs (like Brioche) where fat inhibits gluten formation, requiring the mixer to do the hard work.",
+    "category": "Technique",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Modernist Cuisine"
+    ],
+    "relatedTermIds": [
+      "enriched-dough",
+      "windowpane-test"
+    ]
+  },
+  {
+    "id": "kaiser-roll",
+    "term": "Kaiser Roll",
+    "definition": "A round, crusty Austrian roll characterized by a 5-point pinwheel pattern on top. It is traditionally made by folding the dough corners into the center, though stamps are often used today.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Fresh Loaf"
+    ],
+    "relatedTermIds": [
+      "shaping",
+      "lean-dough"
+    ]
+  },
+  {
+    "id": "kneading",
+    "term": "Kneading",
+    "definition": "The traditional method of working dough by repeatedly folding, pressing, and stretching it to develop gluten structure. Can be done by hand or with a mixer.",
+    "shortDefinition": "Working dough to develop gluten structure.",
+    "category": "Technique",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "gluten",
+      "windowpane-test",
+      "mixing"
+    ],
+    "henrysTips": [
+      "With sourdough, you rarely need to knead. The long fermentation time develops gluten naturally with just a few folds."
+    ],
+    "youtubeQuery": "how to knead bread dough"
+  },
+  {
+    "id": "lame",
+    "term": "Lame",
+    "pronunciation": "/l\u0251\u02d0m/",
+    "definition": "A curved or straight blade used to score bread before baking. Professional lames typically use a double-edged razor blade attached to a handle, allowing for clean, precise cuts.",
+    "shortDefinition": "A blade tool for scoring bread.",
+    "category": "Tool",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "scoring",
+      "ear"
+    ],
+    "henrysTips": [
+      "Hold it at a shallow angle (about 30\u00b0) for that dramatic ear. Straight down cuts give you a different look."
+    ],
+    "youtubeQuery": "how to use bread lame"
+  },
+  {
+    "id": "lamination",
+    "term": "Lamination",
+    "definition": "A technique where dough is stretched out very thinly on a counter (like a bedsheet) and then folded back up. It helps build gluten strength and is a great way to layer in ingredients like cheese or nuts.",
+    "category": "Technique",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Full Proof Baking"
+    ],
+    "relatedTermIds": [
+      "coil-fold",
+      "stretch-and-fold"
+    ],
+    "youtubeQuery": "sourdough lamination technique"
+  },
+  {
+    "id": "lava-rocks",
+    "term": "Lava Rocks",
+    "definition": "Porous volcanic rocks placed in a tray at the bottom of a home oven. Bakers pour boiling water over them to generate massive clouds of steam for baking hearth loaves without a Dutch oven.",
+    "category": "Tool",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "oven-steam",
+      "hearth-loaf"
+    ]
+  },
+  {
+    "id": "leaf-score",
+    "term": "Leaf Score",
+    "definition": "A decorative pattern where shallow cuts are made to resemble the veins of a leaf. Unlike deep functional scores, these are often shallow 'artistic' scores that don't open up fully but leave a beautiful tattoo-like design.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "Sourdough Journey"
+    ],
+    "relatedTermIds": [
+      "scoring",
+      "lame"
+    ]
+  },
+  {
+    "id": "lean-dough",
+    "term": "Lean Dough",
+    "definition": "A dough consisting primarily of flour, water, salt, and yeast, with little to no added fat or sugar. Baguettes, sourdough boules, and pizza dough are classic lean doughs.",
+    "category": "Bread",
+    "difficulty": "Beginner",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "enriched-dough",
+      "baguette"
+    ]
+  },
+  {
+    "id": "levain",
+    "term": "Levain",
+    "definition": "A portion of active sourdough starter that has been specially prepared for baking, usually built up by feeding your starter at a specific ratio and timing. Some bakers use 'levain' and 'starter' interchangeably, but technically a levain is made from your starter.",
+    "shortDefinition": "A prepared portion of starter for baking.",
+    "category": "Ingredient",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "sourdough-starter",
+      "feeding"
+    ],
+    "henrysTips": [
+      "For most home bakers, you can use your fed starter directly. A separate levain is for fine-tuning timing and flavor."
+    ],
+    "youtubeQuery": "levain vs sourdough starter"
+  },
+  {
+    "id": "lievito-madre",
+    "term": "Lievito Madre",
+    "definition": "A stiff Italian sourdough starter (maintained at 50% hydration or less), often kept submerged in water or bound in cloth. It is crucial for rising heavy, enriched doughs like Panettone and Colomba to reduce acidity.",
+    "category": "Ingredient",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Rise and Cortado"
+    ],
+    "relatedTermIds": [
+      "sourdough-starter",
+      "biga"
+    ]
+  },
+  {
+    "id": "lye",
+    "term": "Lye (Sodium Hydroxide)",
+    "definition": "A strong alkali used to dip pretzels and bagels. It creates a much darker, shinier, and more authentic crust than baking soda, but requires careful safety handling (gloves/goggles).",
+    "category": "Ingredient",
+    "difficulty": "Advanced",
+    "sources": [
+      "King Arthur Baking",
+      "German Baking"
+    ],
+    "relatedTermIds": [
+      "pretzels",
+      "maillard-reaction"
+    ],
+    "henrysTips": [
+      "It sounds scary, but if you want 'real' pretzels, you have to use lye. Just wear gloves and don't splash!"
+    ]
+  },
+  {
+    "id": "maillard-reaction",
+    "term": "Maillard Reaction",
+    "pronunciation": "/my-YAR/",
+    "definition": "A chemical reaction between amino acids and reducing sugars that gives browned food (like bread crust) its distinctive flavor and golden color.",
+    "category": "Process",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "shortDefinition": "The chemical reaction that creates the brown, tasty crust.",
+    "relatedTermIds": [
+      "caramelization"
+    ]
+  },
+  {
+    "id": "miche",
+    "term": "Miche",
+    "pronunciation": "/meesh/",
+    "definition": "A large, rustic French round loaf (often 1kg-2kg) made with a high percentage of whole wheat or rye flour. Its large size allows it to keep fresh for many days.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "boule",
+      "whole-wheat-flour"
+    ],
+    "henrysTips": [
+      "The ultimate 'village bread.' Because it's so big, the inside stays moist for nearly a week."
+    ]
+  },
+  {
+    "id": "milk-bread",
+    "term": "Milk Bread (Shokupan)",
+    "definition": "A Japanese white bread known for its incredibly soft, feathery texture and milky sweetness. It almost always uses the Tangzhong method (cooked flour paste) to stay moist for days.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "tangzhong",
+      "scalding",
+      "enriched-dough"
+    ],
+    "mediaPlaceholder": [
+      "image"
+    ]
+  },
+  {
+    "id": "mother",
+    "term": "Mother",
+    "definition": "Another name for a Sourdough Starter. It refers to the main culture that you keep alive and feed forever, from which you take small amounts to bake with.",
+    "category": "Ingredient",
+    "difficulty": "Beginner",
+    "sources": [
+      "PantryMama",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "sourdough-starter",
+      "levain"
+    ]
+  },
+  {
+    "id": "osmotolerant-yeast",
+    "term": "Osmotolerant Yeast",
+    "definition": "A special strain of yeast (often labeled as 'SAF Gold') designed to survive in high-sugar doughs. Sugar 'steals' water from yeast cells, killing normal yeast, but this variety thrives in sweet environments like brioche or panettone.",
+    "category": "Ingredient",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "enriched-dough",
+      "brioche",
+      "panettone"
+    ],
+    "henrysTips": [
+      "If your sweet bread takes FOREVER to rise, your sugar is killing your yeast. Switch to this gold-label yeast and watch it explode."
+    ]
+  },
+  {
+    "id": "oven-spring",
+    "term": "Oven Spring",
+    "definition": "The rapid expansion of the dough during the first 10 minutes of baking. Yeast goes into a final frenzy before dying, and gases expand, causing the loaf to 'spring' up dramatically.",
+    "category": "Process",
+    "difficulty": "Beginner",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "scoring",
+      "steam"
+    ],
+    "henrysTips": [
+      "If your bread is flat, you missed the oven spring. Usually caused by weak starter or over-proofing."
+    ]
+  },
+  {
+    "id": "overproofed",
+    "term": "Overproofed",
+    "definition": "When dough has fermented too long, the gluten network breaks down and can no longer hold gas. The dough becomes weak, sticky, and spreads out instead of rising. Overproofed bread is typically flat and dense.",
+    "shortDefinition": "Dough that fermented too long and lost structure.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "proofing",
+      "poke-test",
+      "gluten"
+    ],
+    "henrysTips": [
+      "If you poke the dough and the indent doesn't spring back at all, you've gone too far. Better to underproof than overproof!"
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Dough is very flat and sticky after proofing",
+        "solution": "It's overproofed. Next time, reduce bulk fermentation or final proof time by 30-60 minutes."
+      }
+    ]
+  },
+  {
+    "id": "pain-de-mie",
+    "term": "Pain de Mie",
+    "definition": "Also known as a 'Pullman loaf,' this is a soft, white sandwich bread baked in a rectangular pan with a sliding lid. The lid traps the dough, forcing it to fill the corners for a perfectly square slice with very little crust.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "sandwich-bread",
+      "enriched-dough"
+    ],
+    "mediaPlaceholder": [
+      "image"
+    ]
+  },
+  {
+    "id": "panettone",
+    "term": "Panettone",
+    "pronunciation": "/\u02ccp\u00e6n.\u026a\u02c8to\u028a.ni/",
+    "definition": "A tall, cylindrical Italian sweet bread traditionally eaten at Christmas. It is notorious for being the 'Mount Everest' of baking due to its complex multi-day sourdough process and the need to hang it upside down while cooling.",
+    "category": "Bread",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "lievito-madre",
+      "enriched-dough"
+    ],
+    "henrysTips": [
+      "This is the final boss of bread baking. Don't attempt this until you're comfortable with basic sourdough!"
+    ]
+  },
+  {
+    "id": "pizza-dough-balls",
+    "term": "Pizza Dough Balls",
+    "definition": "Individual portions of pizza dough that have been divided, shaped into tight balls, and allowed to rest before being stretched into pizza. This final rest allows the gluten to relax for easier stretching.",
+    "shortDefinition": "Portioned and shaped pizza dough ready for stretching.",
+    "category": "Pizza",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "shaping",
+      "proofing"
+    ],
+    "henrysTips": [
+      "Don't skip the rest period after balling! If you try to stretch them immediately, they'll shrink right back."
+    ],
+    "youtubeQuery": "how to shape pizza dough balls"
+  },
+  {
+    "id": "pizza-peel",
+    "term": "Pizza Peel",
+    "definition": "A large, flat shovel-like tool used to transfer pizza or bread into and out of a hot oven. Can be made of wood (for launching) or metal (for turning).",
+    "shortDefinition": "Flat paddle for moving pizza in and out of oven.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "pizza-dough-balls",
+      "semolina"
+    ],
+    "henrysTips": [
+      "Dust your peel with semolina or cornmeal, not flour. It acts like ball bearings and helps the pizza slide off smoothly."
+    ],
+    "youtubeQuery": "how to use pizza peel"
+  },
+  {
+    "id": "pizza-stone-steel",
+    "term": "Pizza Stone / Steel",
+    "definition": "A thick slab of ceramic (stone) or steel placed in the oven to provide intense bottom heat for pizza and bread. Preheat it for at least 45 minutes at maximum temperature.",
+    "shortDefinition": "Hot surface for crispy pizza and bread crusts.",
+    "category": "Tool",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "pizza-peel",
+      "oven-spring"
+    ],
+    "henrysTips": [
+      "Steel is better than stone for pizza - it conducts heat 18x faster and gives you a crispier bottom."
+    ],
+    "youtubeQuery": "pizza stone vs baking steel"
+  },
+  {
+    "id": "poke-test",
+    "term": "Poke Test",
+    "definition": "A tactile test to check if dough is properly proofed. Press a floured finger about 1/2 inch into the dough. If it springs back slowly and leaves a slight indent, it's ready. If it springs back quickly, it needs more time. If it doesn't spring back, it's overproofed.",
+    "shortDefinition": "Press dough to check if it's ready to bake.",
+    "category": "Technique",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "proofing",
+      "overproofed",
+      "underproofed"
+    ],
+    "henrysTips": [
+      "This is more reliable than watching the clock. Dough doesn't wear a watch!"
+    ],
+    "youtubeQuery": "poke test sourdough bread"
+  },
+  {
+    "id": "poolish",
+    "term": "Poolish",
+    "pronunciation": "/\u02c8pu\u02d0.l\u026a\u0283/",
+    "definition": "A wet preferment made with equal parts flour and water by weight (100% hydration) and a tiny amount of yeast. It ferments for 12-16 hours and adds flavor and structure to the final dough.",
+    "shortDefinition": "A liquid preferment made with flour, water, and yeast.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "biga",
+      "preferment",
+      "fermentation"
+    ],
+    "henrysTips": [
+      "Use only a tiny pinch of yeast - like 1/8 teaspoon for 300g flour. Too much and it'll bubble over."
+    ],
+    "youtubeQuery": "how to make poolish"
+  },
+  {
+    "id": "pre-shape",
+    "term": "Pre-Shape",
+    "definition": "An intermediate round of shaping performed after bulk fermentation but before the final shape. It organizes the gluten and creates a uniform surface, setting the stage for a tight final loaf.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "shaping",
+      "bench-rest"
+    ],
+    "henrysTips": [
+      "Think of this like a dress rehearsal for the final shape. It doesn't have to be perfect, just get it into a round ball."
+    ]
+  },
+  {
+    "id": "probe-thermometer",
+    "term": "Probe Thermometer",
+    "definition": "A thermometer with a metal needle used to check the internal temperature of the loaf. It is the only accurate way to know if bread is fully baked (usually 190\u00b0F-210\u00b0F) without cutting it open.",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "crumb",
+      "gummy-crumb"
+    ],
+    "henrysTips": [
+      "Stop thumping the bottom of the bread! Just stick a thermometer in it. 205\u00b0F means it's done. No guessing."
+    ]
+  },
+  {
+    "id": "proofing",
+    "term": "Proofing",
+    "definition": "The final rise of shaped bread dough before baking, also called 'final proof.' This can be done at room temperature (warm proof) or in the refrigerator (cold proof/retard).",
+    "shortDefinition": "The final rise after shaping, before baking.",
+    "category": "Process",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "bulk-fermentation",
+      "banneton",
+      "poke-test"
+    ],
+    "henrysTips": [
+      "Cold proofing overnight in the fridge gives better flavor and makes scoring easier."
+    ],
+    "youtubeQuery": "proofing bread dough explained"
+  },
+  {
+    "id": "proofing-box",
+    "term": "Proofing Box",
+    "definition": "A temperature-controlled box that keeps your dough at the perfect warm temperature for fermentation. It is especially useful in winter when a cold kitchen can stall your starter.",
+    "category": "Tool",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "bulk-fermentation",
+      "proofing"
+    ]
+  },
+  {
+    "id": "protease",
+    "term": "Protease",
+    "definition": "An enzyme that breaks down protein (gluten). Over time, it softens the dough. If fermentation goes on too long, protease can destroy the gluten network, leading to a sticky, runny mess.",
+    "category": "Process",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "Modernist Cuisine"
+    ],
+    "relatedTermIds": [
+      "amylase",
+      "autolyse",
+      "gluten"
+    ]
+  },
+  {
+    "id": "pullman-pan",
+    "term": "Pullman Pan",
+    "definition": "A specialized loaf pan with a slide-on lid. It is used to bake Pain de Mie (sandwich bread) to ensure the loaf has a perfectly square cross-section.",
+    "category": "Tool",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "pain-de-mie"
+    ]
+  },
+  {
+    "id": "pate-fermentee",
+    "term": "P\u00e2te Ferment\u00e9e",
+    "pronunciation": "/pat fer-mon-tay/",
+    "definition": "French for 'fermented dough,' this is simply a piece of fully mixed dough saved from a previous batch. It contains flour, water, yeast, and salt, and is added to a new batch to jump-start fermentation and add flavor.",
+    "shortDefinition": "Old dough saved from a previous batch to flavor the next one.",
+    "category": "Process",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "henrysTips": [
+      "This is the old-school baker's secret! Save a fist-sized ball of dough from your pizza night and throw it into your next loaf for instant flavor depth."
+    ]
+  },
+  {
+    "id": "retarding",
+    "term": "Retarding",
+    "definition": "The process of slowing down fermentation by placing the dough in a cold environment (usually the fridge). This allows flavor to develop over a longer period without the dough over-proofing.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "The Clever Carrot"
+    ],
+    "relatedTermIds": [
+      "cold-proof",
+      "fermentation"
+    ],
+    "alternateQuestions": [
+      "Cold fermentation",
+      "Putting dough in fridge"
+    ]
+  },
+  {
+    "id": "retrogradation",
+    "term": "Retrogradation",
+    "definition": "The scientific name for 'staling.' It occurs when starch molecules in the bread recrystallize and harden over time. This process happens fastest at refrigerator temperatures, which is why you should never store baked bread in the fridge.",
+    "category": "Scientific/Technical",
+    "difficulty": "Advanced",
+    "sources": [
+      "Modernist Cuisine",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "gelatinization",
+      "staling"
+    ],
+    "henrysTips": [
+      "The fridge is the enemy of fresh bread! It actually speeds up retrogradation. Freeze it or keep it on the counter."
+    ]
+  },
+  {
+    "id": "rice-flour",
+    "term": "Rice Flour",
+    "definition": "Finely ground rice used primarily for dusting proofing baskets (bannetons). Unlike wheat flour, rice flour doesn't absorb moisture or form a paste with the dough, preventing sticking.",
+    "shortDefinition": "Non-stick flour for dusting proofing baskets.",
+    "category": "Ingredient",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "banneton",
+      "proofing"
+    ],
+    "henrysTips": [
+      "Buy the cheap stuff at Asian grocery stores. You don't need fancy rice flour for dusting."
+    ],
+    "youtubeQuery": "rice flour banneton"
+  },
+  {
+    "id": "rye-flour",
+    "term": "Rye Flour",
+    "definition": "A flavorful flour made from rye grain that contains very little gluten-forming protein. Instead of gluten, it relies on pentosans (complex sugars) and starch for structure, resulting in a sticky dough and a dense, moist crumb.",
+    "category": "Ingredient",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "henrysTips": [
+      "Rye dough is naturally sticky\u2014don't try to knead it like white bread! Think of it more like molding clay than stretching a rubber band."
+    ],
+    "commonMistakes": [
+      "Trying to knead rye dough until it passes the windowpane test (it never will)."
+    ]
+  },
+  {
+    "id": "scald",
+    "term": "Scald",
+    "definition": "A technique where boiling water is poured over flour (often rye or coarse grains) to soften the bran and gelatinize the starches before adding it to the main dough. It creates a sweeter, softer bread.",
+    "category": "Technique",
+    "difficulty": "Advanced",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "tangzhong",
+      "rye-flour"
+    ]
+  },
+  {
+    "id": "scalding",
+    "term": "Scalding (Milk)",
+    "definition": "Heating milk to just below boiling (180\u00b0F) before adding it to bread dough. This denatures a specific protein in milk (serum whey protein) that would otherwise weaken the gluten and result in a gummy, dense loaf.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "enriched-dough",
+      "milk-bread"
+    ],
+    "henrysTips": [
+      "Grandma wasn't just doing this for fun. If you skip scalding, your milk bread might turn out like a brick. Heat it, then COOL it before adding yeast!"
+    ]
+  },
+  {
+    "id": "scoring",
+    "term": "Scoring",
+    "definition": "Making deliberate cuts in the surface of bread dough just before baking. These cuts control where the bread expands during oven spring and create decorative patterns.",
+    "shortDefinition": "Cutting patterns in dough before baking.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "lame",
+      "ear",
+      "oven-spring"
+    ],
+    "henrysTips": [
+      "Use a swift, confident motion. Hesitation gives you ragged cuts."
+    ],
+    "youtubeQuery": "how to score sourdough bread"
+  },
+  {
+    "id": "seam",
+    "term": "Seam",
+    "definition": "The line where the dough comes together after shaping. This is usually placed face-up in the banneton so it ends up on the bottom of the loaf during baking.",
+    "category": "Process",
+    "difficulty": "Beginner",
+    "sources": [
+      "JennyBlogs",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "shaping",
+      "banneton"
+    ]
+  },
+  {
+    "id": "semolina-flour",
+    "term": "Semolina Flour",
+    "definition": "A coarse, golden flour made from durum wheat. It is high in protein but has a hard gluten structure. It is often used for dusting pizza peels or making pasta, but adds a wonderful crunch to bread crusts.",
+    "category": "Ingredient",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "pizza-peel",
+      "dusting"
+    ]
+  },
+  {
+    "id": "shaggy-mass",
+    "term": "Shaggy Mass",
+    "definition": "The initial stage of mixing where flour and water are combined but no gluten has developed. The dough looks lumpy, rough, and messy, but there is no dry flour left in the bowl.",
+    "category": "Process",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "autolyse",
+      "mixing"
+    ],
+    "henrysTips": [
+      "Don't panic when it looks like a mess here. You just want to make sure there are no dry bits of flour at the bottom of the bowl."
+    ]
+  },
+  {
+    "id": "shaping",
+    "term": "Shaping",
+    "definition": "The process of forming bulk fermented dough into its final form before proofing. Good shaping creates surface tension that helps the bread rise up instead of spreading out.",
+    "shortDefinition": "Forming dough into its final shape before proofing.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "boule",
+      "batard",
+      "tension-pull"
+    ],
+    "henrysTips": [
+      "Don't manhandle it! Gentle hands preserve the bubbles you spent all day creating."
+    ],
+    "youtubeQuery": "shaping sourdough bread"
+  },
+  {
+    "id": "sifter",
+    "term": "Sifter",
+    "definition": "A mesh tool used to aerate flour or remove bran particles from whole grain flour (a process called 'bolting'). This allows bakers to make lighter loaves while still using whole grains.",
+    "category": "Tool",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "high-extraction-flour",
+      "ash-content"
+    ]
+  },
+  {
+    "id": "soaker",
+    "term": "Soaker",
+    "definition": "Grains or seeds that have been soaked in water (or milk) before being added to the dough. Soaking prevents hard grains from stealing moisture from the dough and making the bread dry.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "inclusions",
+      "scald"
+    ]
+  },
+  {
+    "id": "pretzels",
+    "term": "Soft Pretzels",
+    "definition": "A knotted bread that is dipped in a lye or baking soda solution before baking. This alkaline bath gives pretzels their signature dark mahogany color and unique pretzel flavor.",
+    "category": "Bread",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "maillard-reaction",
+      "lye"
+    ]
+  },
+  {
+    "id": "sourdough-discard",
+    "term": "Sourdough Discard",
+    "definition": "The portion of sourdough starter that is removed before feeding to keep the total volume manageable. While not active enough to rise bread, it is packed with flavor and can be used in pancakes, crackers, and cookies.",
+    "category": "Ingredient",
+    "difficulty": "Beginner",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "sourdough-starter",
+      "levain"
+    ],
+    "henrysTips": [
+      "Never throw this away! Keep a 'discard jar' in your fridge and make pancakes on the weekend. It's free flavor."
+    ]
+  },
+  {
+    "id": "sourdough-starter",
+    "term": "Sourdough Starter",
+    "definition": "A living culture of wild yeast and beneficial bacteria (primarily lactic acid bacteria) that naturally occurs in flour and the environment. It's maintained by regular feeding with flour and water and used to leaven bread instead of commercial yeast.",
+    "shortDefinition": "Living culture of wild yeast and bacteria for leavening.",
+    "category": "Ingredient",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "feeding",
+      "discard",
+      "levain"
+    ],
+    "henrysTips": [
+      "Name it! You're more likely to feed something called 'Herman' than 'that jar in the back of the fridge.'"
+    ],
+    "bookRef": "Sourdough for the Rest of Us",
+    "youtubeQuery": "sourdough starter guide"
+  },
+  {
+    "id": "spelt-flour",
+    "term": "Spelt Flour",
+    "definition": "An ancient grain related to wheat with a nutty, sweet flavor. It has highly extensible (stretchy) gluten that is weaker than modern wheat, meaning it can easily be over-kneaded and collapse if worked too hard.",
+    "category": "Ingredient",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "King Arthur Baking"
+    ],
+    "henrysTips": [
+      "Spelt creates a dough that spreads out like a puddle if you aren't careful. Treat it gently and use a loaf pan if you're just starting out."
+    ]
+  },
+  {
+    "id": "sponge",
+    "term": "Sponge",
+    "definition": "A wet pre-ferment, similar to a poolish but often containing all the liquid for the recipe. It is whipped up to incorporate air and allowed to ferment until bubbly/foamy before the remaining ingredients are added.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "poolish",
+      "levain"
+    ]
+  },
+  {
+    "id": "oven-steam",
+    "term": "Steam (Baking)",
+    "definition": "Water vapor introduced into the oven during the first 20 minutes of baking. Steam keeps the crust soft and flexible, allowing the bread to expand fully (oven spring) before the crust hardens.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "The Clever Carrot"
+    ],
+    "relatedTermIds": [
+      "dutch-oven",
+      "oven-spring",
+      "lava-rocks"
+    ]
+  },
+  {
+    "id": "stretch-and-fold",
+    "term": "Stretch and Fold",
+    "definition": "A gentle folding technique performed during bulk fermentation. Wet your hands, grab one side of the dough, stretch it up, and fold it over onto itself. Rotate the bowl 90\u00b0 and repeat 4 times. This builds gluten strength without kneading.",
+    "shortDefinition": "Folding technique to build dough strength during bulk.",
+    "category": "Technique",
+    "difficulty": "Beginner",
+    "relatedTermIds": [
+      "coil-fold",
+      "bulk-fermentation",
+      "gluten"
+    ],
+    "henrysTips": [
+      "Wet hands are your friend! Sticky dough won't stick to wet hands."
+    ],
+    "youtubeQuery": "stretch and fold sourdough"
+  },
+  {
+    "id": "tangzhong",
+    "term": "Tangzhong",
+    "pronunciation": "/t\u0251\u014b\u02c8d\u0292\u0254\u014b/",
+    "definition": "An Asian technique where a small portion of flour is cooked with water to create a gel-like paste, then added to the dough. The gelatinized starches hold extra moisture, making bread incredibly soft and extending shelf life.",
+    "shortDefinition": "Cooked flour paste that makes bread super soft.",
+    "category": "Technique",
+    "difficulty": "Advanced",
+    "relatedTermIds": [
+      "milk-bread",
+      "enriched-dough"
+    ],
+    "henrysTips": [
+      "This is the secret to that pillowy-soft Japanese milk bread. Game changer for sandwich loaves."
+    ],
+    "youtubeQuery": "tangzhong method bread"
+  },
+  {
+    "id": "tenacity",
+    "term": "Tenacity",
+    "definition": "A technical term for dough that resists stretching entirely. A 'bucky' or tenacious dough feels tough and rubbery, often caused by using flour with too much protein or over-kneading.",
+    "category": "Scientific/Technical",
+    "difficulty": "Advanced",
+    "sources": [
+      "Bakerpedia",
+      "King Arthur Baking"
+    ],
+    "relatedTermIds": [
+      "gluten",
+      "kneading"
+    ]
+  },
+  {
+    "id": "tension-pull",
+    "term": "Tension Pull",
+    "definition": "A shaping motion where the baker drags the dough ball across the counter surface towards themselves. The friction against the counter tightens the outer skin of the dough, helping it stand tall in the oven.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "sources": [
+      "Breadtopia",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "shaping",
+      "boule"
+    ],
+    "mediaPlaceholder": [
+      "video"
+    ],
+    "youtubeQuery": "how to create tension in bread dough"
+  },
+  {
+    "id": "tunneling",
+    "term": "Tunneling",
+    "definition": "A troubleshooting term referring to large, unwanted caverns or holes in the bread crumb, often located right under the crust, while the rest of the crumb is dense.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "The Clever Carrot"
+    ],
+    "relatedTermIds": [
+      "proofing",
+      "gluten"
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Large tunnel at the top of the loaf",
+        "solution": "This is often caused by under-proofing or weak gluten structure. Let the dough ferment longer."
+      }
+    ]
+  },
+  {
+    "id": "turning-peel",
+    "term": "Turning Peel",
+    "definition": "A small, round, metal pizza peel used specifically to rotate the pizza inside a wood-fired oven. Unlike the launching peel, it is designed for agility inside the hot oven.",
+    "category": "Tool",
+    "difficulty": "Advanced",
+    "sources": [
+      "Ooni",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "pizza-peel",
+      "launching"
+    ]
+  },
+  {
+    "id": "underproofed",
+    "term": "Underproofed",
+    "definition": "When dough hasn't fermented long enough. The yeast hasn't produced enough gas, resulting in dense bread with poor oven spring. When you do the poke test, the dough springs back very quickly.",
+    "shortDefinition": "Dough that needs more time to rise.",
+    "category": "Process",
+    "difficulty": "Intermediate",
+    "relatedTermIds": [
+      "proofing",
+      "poke-test",
+      "overproofed"
+    ],
+    "henrysTips": [
+      "Underproofing is better than overproofing. You can always give it 30 more minutes, but you can't undo overproofing."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Bread is dense with small holes",
+        "solution": "Likely underproofed. Give it more time during bulk fermentation or final proof."
+      }
+    ]
+  },
+  {
+    "id": "vital-wheat-gluten",
+    "term": "Vital Wheat Gluten",
+    "definition": "A powdered form of almost pure gluten. It is used as an additive to boost the strength of weak flours, like all-purpose or whole wheat, effectively turning them into 'bread flour'.",
+    "category": "Ingredient",
+    "difficulty": "Advanced",
+    "sources": [
+      "King Arthur Baking",
+      "Breadtopia"
+    ],
+    "henrysTips": [
+      "A tablespoon of this can save a loaf if you're forced to bake with cheap all-purpose flour."
+    ],
+    "relatedTermIds": [
+      "bread-flour",
+      "gluten"
+    ]
+  },
+  {
+    "id": "wheat-stalk-score",
+    "term": "Wheat Stalk Score",
+    "definition": "A classic decorative scoring pattern that resembles a stalk of wheat. It is created by making small, alternating diagonal snips or cuts down the center of the loaf.",
+    "category": "Technique",
+    "difficulty": "Intermediate",
+    "sources": [
+      "The Perfect Loaf",
+      "Breadtopia"
+    ],
+    "relatedTermIds": [
+      "scoring",
+      "lame"
+    ],
+    "mediaPlaceholder": [
+      "image"
+    ],
+    "youtubeQuery": "wheat stalk scoring pattern sourdough"
+  },
+  {
+    "id": "whole-wheat-flour",
+    "term": "Whole Wheat Flour",
+    "definition": "Flour milled from the entire wheat kernel, including the bran, germ, and endosperm. Because it contains the sharp bran and oily germ, it absorbs more water and ferments faster than white flour, often producing a denser but more flavorful loaf.",
+    "category": "Ingredient",
+    "difficulty": "Intermediate",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "hydration",
+      "fermentation",
+      "autolyse"
+    ],
+    "henrysTips": [
+      "Whole wheat is 'thirsty'! You'll almost always need to add a splash more water than the recipe calls for if you're swapping this in."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Loaf is dense and heavy",
+        "solution": "Increase hydration or mix with 50% bread flour to lighten the texture."
+      }
+    ]
+  },
+  {
+    "id": "windowpane-test",
+    "term": "Windowpane Test",
+    "definition": "A technique to check if gluten is fully developed. You gently stretch a small piece of dough between your fingers; if it stretches thin enough to let light through without tearing (like a windowpane), the gluten is ready.",
+    "category": "Technique",
+    "difficulty": "Beginner",
+    "sources": [
+      "King Arthur Baking",
+      "The Perfect Loaf"
+    ],
+    "relatedTermIds": [
+      "gluten",
+      "kneading",
+      "intensive-mix"
+    ],
+    "henrysTips": [
+      "Don't skip this! If the dough tears instantly, keep mixing. If you bake before this stage, your bread will be dense."
+    ],
+    "mediaPlaceholder": [
+      "video"
+    ],
+    "youtubeQuery": "how to do windowpane test bread"
+  }
+]

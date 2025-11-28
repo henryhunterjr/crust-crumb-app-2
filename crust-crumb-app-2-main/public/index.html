@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crust & Crumb AI Chat</title>
+</head>
+<body>
+    <h1>Ask AI Anything</h1>
+    <input type="text" id="query" placeholder="Type your question">
+    <button onclick="askAI()">Ask</button>
+    <pre id="response"></pre>
+
+    <script>
+        async function askAI() {
+            const query = document.getElementById('query').value;
+            const responseBox = document.getElementById('response');
+            responseBox.textContent = 'Loading...';
+            try {
+                const response = await fetch('http://localhost:3000/api/ai-chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query })
+                });
+                const data = await response.json();
+                responseBox.textContent = data.answer || data.error;
+            } catch (error) {
+                responseBox.textContent = 'Error: ' + error.message;
+            }
+        }
+    </script>
+</body>
+</html>
