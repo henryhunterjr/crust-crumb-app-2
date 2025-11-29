@@ -249,3 +249,4 @@ app.listen(PORT, () => {
   console.log(`✅ YouTube API: ${process.env.YOUTUBE_API_KEY ? 'Configured' : 'Missing'}`);
   console.log(`✅ Google Search: ${process.env.GOOGLE_SEARCH_API_KEY ? 'Configured' : 'Missing'}`);
 });
+module.exports = app;
