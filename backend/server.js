@@ -242,11 +242,15 @@ app.get('/health', (req, res) => {
   });
 });
 
-const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => {
-  console.log(`🍞 Crust & Crumb Backend running on http://localhost:${PORT}`);
-  console.log(`✅ Gemini API: ${process.env.GEMINI_API_KEY ? 'Configured' : 'Missing'}`);
-  console.log(`✅ YouTube API: ${process.env.YOUTUBE_API_KEY ? 'Configured' : 'Missing'}`);
-  console.log(`✅ Google Search: ${process.env.GOOGLE_SEARCH_API_KEY ? 'Configured' : 'Missing'}`);
-});
+// Only run server locally, not on Vercel
+if (process.env.NODE_ENV !== 'production') {
+  const PORT = process.env.PORT || 3001;
+  app.listen(PORT, () => {
+    console.log(`🍞 Crust & Crumb Backend running on http://localhost:${PORT}`);
+    console.log(`✅ Gemini API: ${process.env.GEMINI_API_KEY ? 'Configured' : 'Missing'}`);
+    console.log(`✅ YouTube API: ${process.env.YOUTUBE_API_KEY ? 'Configured' : 'Missing'}`);
+    console.log(`✅ Google Search: ${process.env.GOOGLE_SEARCH_API_KEY ? 'Configured' : 'Missing'}`);
+  });
+}
+
 export default app;
